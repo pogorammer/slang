@@ -1,6 +1,6 @@
 # Slang
 
-[![wercker status](https://app.wercker.com/status/20b05c4eb17fc957ff322da01bb157fc/s/master "wercker status")](https://app.wercker.com/project/byKey/20b05c4eb17fc957ff322da01bb157fc)
+[![wercker status](https://app.wercker.com/status/20b05c4eb17fc957ff322da01bb157fc/s/master "wercker status")]
 [![Go Report Card](https://goreportcard.com/badge/github.com/pogorammer/slang)](https://goreportcard.com/report/github.com/pogorammer/slang)
 [![GoDoc](https://godoc.org/github.com/pogorammer/slang?status.svg)](https://godoc.org/github.com/pogorammer/slang)
 
